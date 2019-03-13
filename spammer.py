@@ -25,6 +25,7 @@ rep=int(rep)
 if (check == 'Y' or check == 'y'):
 
     while (i<=rep):
+        time.sleep(3)
         i=i+1
         smtpserver.sendmail(GMAIL_USER, rec,msg)
         print('SENT '+str(i))
