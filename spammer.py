@@ -3,7 +3,7 @@ import time
 i=0
 
 GMAIL_USER = 'spammer.kindness.bot@gmail.com'
-GMAIL_PASS = 'Password#42'
+GMAIL_PASS = 'NOCode4YoULolxD'
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 
