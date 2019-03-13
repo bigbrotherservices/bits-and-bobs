@@ -1,4 +1,6 @@
-ar rs = require('readline-sync');
+// A simple node.js calculator. Boom.
+
+var rs = require('readline-sync');
 
 var numOne = rs.question('Please enter a number');
 var numTwo = rs.question('Please enter anoter number');
